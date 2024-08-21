@@ -7,8 +7,10 @@
   
 <div id="badges">
   <img src="https://img.shields.io/badge/Mobile-Developer-blue"/>
+  <img src="https://img.shields.io/badge/Frontend-Developer-yellow"/>
   <img src="https://img.shields.io/badge/Problem-Solver-brightgreen"/>
   <img src="https://img.shields.io/badge/Dart-IOS-red"/>
+   <img src="https://img.shields.io/badge/Ract Js-Next JS-orange"/>
   <img src="https://komarev.com/ghpvc/?username=hosain-mohamed&style=flat-square&color=blue"/>
 
 </div>
